@@ -9,5 +9,7 @@ public class AmazonPage {
 
     // html for deals page
 
+    // team members line
+
     // html for cart page
 }
